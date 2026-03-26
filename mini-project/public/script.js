@@ -1,0 +1,1 @@
+console.log("JavaScript Loaded from Static Folder");
